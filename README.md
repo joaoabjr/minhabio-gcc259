@@ -1,6 +1,6 @@
 # Minha bio (GCC259)
 
-<img src="./joao.jpg">
+<img src="./joao.jpg" height=300px widht=300px>
 
 ## Apresentação
 Graduando em Ciência da Computação pela Universidade Federal de Lavras, possuindo
