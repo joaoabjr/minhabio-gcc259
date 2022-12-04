@@ -1,5 +1,7 @@
 # Minha bio (GCC259)
 
+<img src="./joao.jpg">
+
 ## Apresentação
 Graduando em Ciência da Computação pela Universidade Federal de Lavras, possuindo
 familiaridade com construção de algoritmos em linguagens como C, C++, Java, Python e JavaScript.
